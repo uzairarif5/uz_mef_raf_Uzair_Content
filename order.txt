@@ -1,0 +1,2 @@
+/story 1
+/story 2
