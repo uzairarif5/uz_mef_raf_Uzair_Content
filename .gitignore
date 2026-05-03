@@ -1,11 +1,7 @@
 # Ignore everything with a dot
 *.*
 
-# except .md files
+# except .md files, order.txt and gitignore
 !*.md
-
-# except order.txt
 !order.txt
-
-# except gitignore
 !.gitignore
